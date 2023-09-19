@@ -1,0 +1,37 @@
+
+===> WEBSITE LINK =======
+https://icanhazdadjoke.com/api
+
+ WE CAN PUT IN CMD 
+  AND THEN SEE RANDOM JOKESS
+
+curl -H "Accept: application/json" https://icanhazdadjoke.com/
+
+
+
+=====POSTMAN=================
+
+1st STEP
+ 
+FOR GET ONLY
+https://icanhazdadjoke.com
+
+WE CAN GET ALL HTML FILE
+
+2ND STEP
+
+Click On Header 
+Set Key
+ACCEPET
+
+SET VALUE
+APPLICATION/JSON
+
+AND THen We CAN get SIMPLE OBJECT
+
+
+================================
+
+LINK====>>
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
